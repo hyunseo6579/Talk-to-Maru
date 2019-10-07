@@ -2,6 +2,9 @@
 
 (Mari is a first repository made on my github and was made without knowledge of definition of 'repositry'.
  Hence nothing meaningful to the name of repository)
+ 
+File needed to run:
+	Maru 1.0.py
 
 Game Description:
 
