@@ -1,7 +1,7 @@
-# Mari
+# Talk to Maru
 
 (Mari is a first repository made on my github and was made without knowledge of definition of 'repositry'.
-Hence nothing meaningful to the name of repository)
+ Hence nothing meaningful to the name of repository)
 
 Game Description:
 
