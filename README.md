@@ -4,6 +4,7 @@
  Hence nothing meaningful to the name of repository)
  
 File needed to run:
+	
 	Maru 1.0.py
 
 Game Description:
