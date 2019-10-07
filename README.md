@@ -17,5 +17,4 @@ Game Description:
 
 Version 1.0
 
-Made by Maristella (Hyunseo) Jho
-	October 6th, 2019
+Made by Maristella (Hyunseo) Jho on October 6th, 2019
