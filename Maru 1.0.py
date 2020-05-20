@@ -347,8 +347,8 @@ class Maru:  # Maru is the interactable interface
 
     def draw_Maru(self):
 
-        Maru_y = self.window.get_height()/7*2  # coordinates of Maru
-        Maru_x = self.window.get_width()/5*3
+        Maru_y = int(self.window.get_height()/7*2)  # coordinates of Maru
+        Maru_x = int(self.window.get_width()/5*3)
         colorA = (255,203,156)
         colorB = (255,121,3)
         pygame.draw.ellipse(self.window, colorA, (Maru_x,Maru_y,130,75))  # head
@@ -414,7 +414,7 @@ class User:  # User refers to the interface that displays user's input
         pygame.draw.arc(self.window,self.white,([0,self.xy[1]-215],[20,30]),6.3,3.14)
         pygame.draw.arc(self.window,self.white,(0,self.xy[1]-213,10,15),3.14,6.3)
         # user eye white and black aka filled black circle inside unfilled black circle
-        pygame.draw.circle(self.window,self.black,(150,self.xy[1]-90),30,width=1)
+        pygame.draw.circle(self.window,self.black,(150,self.xy[1]-90),30)
         pygame.draw.circle(self.window, self.black, (150, self.xy[1] - 90), 20)
 
     def user_bubl(self):
